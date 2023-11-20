@@ -4,7 +4,7 @@ I'm Kağan Solmaz, Front-End Developer :computer:
 </br>
 
   <div>
-  <a href="https://harveycw.netlify.app/" target="_blank">
+  <a href="https://github.com/ada271" target="_blank">
 <kbd> <br> Personal Website <br> </kbd>
   </a>
   </div> 
