@@ -13,7 +13,7 @@ I'm Kağan Solmaz, Front-End Developer :computer:
  </p>
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ada271&count_private=true&show_icons=true&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ada271)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ada271&hide=TeX&layout=compact) </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ada271.ada271)
 
